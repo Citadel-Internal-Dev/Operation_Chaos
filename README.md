@@ -6,7 +6,7 @@ If you found this repo, congratulations. You are closer than the admins think.
 
 ## Installation
 ```bash
-git clone https://github.com/[YOUR-REPO]/Operation_Chaos.git
+git clone https://github.com/Citadel-Internal-Dev/Operation_Chaos.git
 cd Operation_Chaos
 pip install -r requirements.txt
 ```
